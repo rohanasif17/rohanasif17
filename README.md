@@ -35,11 +35,13 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
       </td>
-    <<td align="center" width="85">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s" width="48" height="48" alt="Cloudinary" style="border-radius: 20px;" />
-  <br>Cloudinary
-</td>
       <td align="center" width="85">
+      <div style="width:48px; height:48px; overflow:hidden; border-radius:8px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s" width="48" height="48" alt="Cloudinary" />
+      </div>
+      <br>Cloudinary
+    </td>
+     <td align="center" width="85">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
         <br>Postman
       </td>
