@@ -1,3 +1,5 @@
+<div style="align: center">
+
 ## Hi there, I'm Rohan
 
 
@@ -48,3 +50,4 @@
   </div>
 
 ---
+</div>
