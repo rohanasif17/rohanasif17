@@ -1,4 +1,4 @@
-<div style="align: center">
+<div align="center">
 
 ## Hi there, I'm Rohan
 
