@@ -35,10 +35,10 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
       </td>
-      <td align="center" width="85">
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1610462143/website/cloudinary_logo_for_white_bg.svg" width="48" height="48" alt="Cloudinary" />
-  <br>Cloudinary
-</td>
+    <td align="center" width="85">
+      <img src="https://static.cdnlogo.com/logos/c/20/cloudinary.svg" width="48" height="48" alt="Cloudinary" />
+      <br>Cloudinary
+    </td>
       <td align="center" width="85">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
         <br>Postman
