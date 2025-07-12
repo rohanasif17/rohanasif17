@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Rohan
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohan_asif_17)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohan_asif_17)
+
 
 <!--
 **rohanasif17/rohanasif17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
