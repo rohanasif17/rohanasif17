@@ -38,7 +38,7 @@
         <br>Git
       </td>
       <td align="center" width="85">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s" width="48" height="48" alt="Cloudinary" />
+      <img src="https://res-console.cloudinary.com/mybackendproject1/thumbnails/v1/image/upload/v1751905418/c2FtcGxlcy9jbG91ZGluYXJ5LWljb24=/preview" width="48" height="48" alt="Cloudinary" />
       <br>Cloudinary
     </td>
        <td align="center" width="85">
@@ -51,3 +51,6 @@
 
 ---
 </div>
+
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Lr-sqt1y-yVxzrH47z8uN_f70jycA1GKUg&s
